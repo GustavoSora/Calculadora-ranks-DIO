@@ -1,1 +1,1 @@
-# Calculadora-ranks-DIO
+Desafio da calculadora de partidas ranqueadas em JS
